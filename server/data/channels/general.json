@@ -1,0 +1,41 @@
+[
+  {
+    "id": "a4dac7ae-219d-4213-9b03-d479dfb6ace5",
+    "user_id": "d70dfd8d-e32c-4dc5-9da8-97dfcf217d5f",
+    "username": "BoldWolf8740",
+    "content": "Hallo",
+    "type": "text",
+    "file": null,
+    "timestamp": "2025-06-05T20:13:47.582096",
+    "channel_id": "general"
+  },
+  {
+    "id": "c2ceed9a-0a3a-4236-a327-610ea58916fe",
+    "user_id": "d00d73a8-78e3-4a86-90a4-15cdf62dd2de",
+    "username": "MightyDragon6140",
+    "content": "Wie geths?",
+    "type": "text",
+    "file": null,
+    "timestamp": "2025-06-05T20:13:57.023307",
+    "channel_id": "general"
+  },
+  {
+    "id": "a21587a9-b604-4b53-9217-e8e1a637efc7",
+    "user_id": "d00d73a8-78e3-4a86-90a4-15cdf62dd2de",
+    "username": "MightyDragon6140",
+    "content": "asd",
+    "type": "file",
+    "file": {
+      "filename": "IMG-20250513-WA0010.webp",
+      "id": "aba7c1c7-f5d4-487d-97bd-22e4eb34be91",
+      "size": 27522,
+      "thumbnail_url": "/api/files/thumb_66e71517-672b-43c9-b8c1-4071e9b96feb_IMG-20250513-WA0010.webp",
+      "type": "image/webp",
+      "unique_filename": "66e71517-672b-43c9-b8c1-4071e9b96feb_IMG-20250513-WA0010.webp",
+      "uploaded_at": "2025-06-05T20:14:12.680221",
+      "url": "/api/files/66e71517-672b-43c9-b8c1-4071e9b96feb_IMG-20250513-WA0010.webp"
+    },
+    "timestamp": "2025-06-05T20:14:12.686220",
+    "channel_id": "general"
+  }
+]
